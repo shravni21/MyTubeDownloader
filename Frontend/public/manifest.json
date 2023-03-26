@@ -1,0 +1,15 @@
+{
+  "name":"MyTubeDownloader",
+  "description":"Youtube video downloader",
+  "version":"1.0",
+  "manifest_version":3,
+  "action":{
+    "default_title":"MyTubeDownloader",
+    "default_popup":"index.html",
+    "default_icon":{
+      "16":"download.png",
+      "128":"download.png"
+    }
+  }
+
+}
